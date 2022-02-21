@@ -1,0 +1,3 @@
+url = jdbc:derby:memory:;create=true
+user = Denis
+pass = 01091985
